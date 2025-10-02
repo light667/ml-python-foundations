@@ -34,4 +34,4 @@ The help() function
 """
 help(round)
 help(print)
-print("light", sep= "*", end= ".")
+print("light", "kokou", "armand" , sep= " * ", end= " .")
