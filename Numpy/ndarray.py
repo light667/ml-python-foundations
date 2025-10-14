@@ -25,5 +25,20 @@ print(D)
 
 # initialiser un tableau avec des nombre aleatoire
 
+# pour fixer le resultat on utilisera :
+np.random.seed(123)
 E = np.random.randn(3, 4)
 print(E)
+
+# creer une matrice identité
+F = np.eye(4)
+print(F)
+
+# creer un tableau a 1 dimension avec un debut , une fin , et le nombre d'element qu'elle va contenire de facons egal
+
+G = np.linspace(0, 10, 5)
+print(G)
+
+# creer un tableau avec un debut , une fin et le pas
+H = np.arange(0, 10, 1)
+print(H)
