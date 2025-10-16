@@ -26,3 +26,12 @@ print(A)
 A = A.reshape((A.shape[0], 1))
 print(A.shape)
 print(A)
+
+A = A.squeeze()
+print(A.shape)
+
+# afficher les elements d'un tableau mais en une seul dimension
+
+print(D.ravel())
+
+

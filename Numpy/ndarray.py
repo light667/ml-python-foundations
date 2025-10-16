@@ -42,3 +42,8 @@ print(G)
 # creer un tableau avec un debut , une fin et le pas
 H = np.arange(0, 10, 1)
 print(H)
+
+# choisir le type de donnée a avoir dans le tableau et le nombre de bite que peut avoir le tableau sur l'ordinateur
+# avec les methodes dtype
+np.linspace(0, 10, 20, dtype=np.float64)
+np.arange(0,10, 1, dtype= np.float16)
