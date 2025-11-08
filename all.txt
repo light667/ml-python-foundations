@@ -1,0 +1,5 @@
+python basics : lists and tuples , loops and lists , strings and dictionnaries , working with numbers , modules and packages, functions , booleans conditionals
+numpy : ndarray (introduction , manipulation , indexing , slicing , subsettings), broadcasting , statistiques
+matplotlib : bases, graphiques important(Scatter classification , Graphique 3D, histogramme , Graphique contour plot , ImShow)
+Pandas : create  read and write datasets , indexing , slicing and assignining, summary functions and maps , grouping and sorting
+Scipy: Scipy interpolation , Optimize , fourier , NdImage
